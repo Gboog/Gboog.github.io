@@ -1,5 +1,4 @@
-www.gboog.me.			IN	A
-www.gboog.me.		864	IN	CNAME	gboog.me.
-gboog.me.		864	IN	A	192.30.252.153
-gboog.me.		864	IN	A	192.30.252.154
-
+A gboog.team 185.199.108.153300
+A gboog.team 185.199.109.153300
+A gboog.team 185.199.110.153300
+A gboog.team 185.199.111.153300
